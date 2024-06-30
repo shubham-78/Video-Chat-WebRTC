@@ -1,0 +1,21 @@
+.video {
+    width: 550px;
+}
+
+.video .xs {
+    width: 300px;
+}
+
+.gridContainer {
+    justify-content: center;
+}
+
+.gridContainer .xs {
+    flex-direction: column;
+}
+
+.paper {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}

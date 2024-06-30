@@ -1,0 +1,35 @@
+.root {
+    display: flex;
+    flex-direction: column;
+}
+
+.gridContainer {
+    width: 100%;
+}
+
+.gridContainer .xs {
+    flex-direction: column;
+}
+
+.container {
+    width: 600px;
+    margin: 35px 0;
+    padding: 0;
+}
+
+.container .xs {
+    width: 80%;
+}
+
+.paper {
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+
+.pad {
+    padding: 20px;
+}
+
+.mar {
+    margin-top: 20px;
+}
